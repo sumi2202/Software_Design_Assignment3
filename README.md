@@ -7,7 +7,6 @@ Question 2 prompts students to complete the ADD Process for Iteration 2 for the 
 
 
 ### Contents
-- Step 1
 - Step 2
 - Step 3
 - Step 4
