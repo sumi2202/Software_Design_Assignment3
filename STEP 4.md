@@ -1,4 +1,4 @@
-### Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
+## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 
 | **Design Decision**                                  | **Rationale**                                                                                                                                                                                                   |
